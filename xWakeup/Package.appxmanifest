@@ -9,7 +9,7 @@
   <Identity
     Name="35107B41AAA99.xWakeup"
     Publisher="CN=BFED0AF3-C9D5-4AD7-97A9-F748DF49E877"
-    Version="1.0.0.0" />
+    Version="1.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="4af4af3b-24a2-4ab5-86c8-fa5e25abc4d8" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
